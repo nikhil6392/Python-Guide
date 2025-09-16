@@ -23,6 +23,15 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
 - ✅ Testing strategies 
 
 
+## 📘 Chapters and Code
+1. [Chapter 1](./chapter%201/)
+   - [zenofpython.py](./chapter%201/zenofpython.py)
+
+2. [Chapter 2](./chapter%202/)
+   - [tuples.py](./chapter%202/tuples.py)
+
+
+
 🙏 Thank You
 
 Thank you for visiting this project!
