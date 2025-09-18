@@ -30,6 +30,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
 2. [Chapter 2](./chapter%202/)
    - [tuples.py](./chapter%202/tuples.py)
    - [list.py](./chapter%202/list.py)
+   - [dictionary.py](./chapter%202/dictionary.py)
 
 
 
