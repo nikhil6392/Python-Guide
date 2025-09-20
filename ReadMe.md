@@ -32,6 +32,8 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
    - [list.py](./chapter%202/list.py)
    - [dictionary.py](./chapter%202/dictionary.py)
    - [sets.py](./chapter%202/sets.py)
+   - [queues.py](./chapter%202/queues.py)
+   - [stack.py](./chapter%202/stack.py)
 
 
 
