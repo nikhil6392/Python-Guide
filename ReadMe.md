@@ -35,6 +35,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
    - [queues.py](./chapter%202/queues.py)
    - [stack.py](./chapter%202/stack.py)
    - [heap.py](./chapter%202/heap.py)
+   - [tree.py](./chapter%202/tree.py)
 
 
 
