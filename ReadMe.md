@@ -36,6 +36,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
    - [stack.py](./chapter%202/stack.py)
    - [heap.py](./chapter%202/heap.py)
    - [tree.py](./chapter%202/tree.py)
+   - [graphs.py](./chapter%202/graphs.py)
 3. [tips](./tips/)
    - [iterator.py](./tips/iterator.py)
 
