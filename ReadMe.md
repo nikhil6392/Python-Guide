@@ -38,6 +38,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
    - [tree.py](./chapter%202/tree.py)
    - [graphs.py](./chapter%202/graphs.py)
    - [zip&enumerate.py](./chapter%202/zip&enumerate.py)
+   - [decorators.py](./chapter%202/decorators.py)
 3.[Chapter 3](./chapter3/)
   - [arg^kwargs.py](./chapter3/arg&kwargs.py)
 4. [tips](./tips/)
