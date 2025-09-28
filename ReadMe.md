@@ -40,6 +40,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
    - [zip&enumerate.py](./chapter%202/zip&enumerate.py)
    - [decorators.py](./chapter%202/decorators.py)
    - [namedtuples.py](./chapter%202/namedtuples.py)
+   - [closure.py](./chapter%202/closure.py)
 
 
 3. [Chapter 3](./chapter3/)
