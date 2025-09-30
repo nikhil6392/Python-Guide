@@ -42,6 +42,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
    - [namedtuples.py](./chapter%202/namedtuples.py)
    - [closure.py](./chapter%202/closure.py)
    - [properties.py](./chapter%202/properties.py)
+   - [metaclasses.py](./chapter%202/metaclasses.py)
 
 
 3. [Chapter 3](./chapter3/)
