@@ -43,7 +43,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
    - [closure.py](./chapter%202/closure.py)
    - [properties.py](./chapter%202/properties.py)
    - [metaclasses.py](./chapter%202/metaclasses.py)
-
+   - [bestpractices.py](./chapter%202/bestpractices.py)
 
 3. [Chapter 3](./chapter3/)
    - [arg^kwargs.py](./chapter3/arg&kwargs.py)
