@@ -48,6 +48,7 @@ This project is inspired by *best practices*, *Zen of Python*, and real-world co
 3. [Chapter 3](./chapter3/)
    - [arg^kwargs.py](./chapter3/arg&kwargs.py)
    - [pureFunctions.py](./chapter3/pureFunctions.py)
+   - [impureFunctions.py](./chapter3/impureFunctions.py)
 4. [tips](./tips/)
    - [iterator.py](./tips/iterator.py)
 
